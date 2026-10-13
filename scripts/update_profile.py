@@ -100,7 +100,7 @@ def stats_svg(repos, followers, now):
 def main():
     repos = load_repos()
     profile = fetch('/users/' + USER)
-    now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M')
+    now = datetime.now(timezone.utc).strftime('%Y-%m-%d')
     path = ROOT / 'README.md'
     text = path.read_text(encoding='utf-8-sig')
     blocks = {
