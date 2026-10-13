@@ -19,7 +19,7 @@ Curious by default. I turn ideas into code and learning into things you can try.
 <!-- LATEST:START -->
 ### 🚀 [crm-bi](https://github.com/Crazy4Lamb/crm-bi)
 
-悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence.
+CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence.
 
 `JavaScript · business-intelligence · crm · dashboard · echarts`
 <!-- LATEST:END -->
@@ -44,7 +44,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- PROJECTS:START -->
 | Project / 项目 | Description / 简介 | Stack / 技术 |
 |---|---|---|
-| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | 悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
+| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | JavaScript |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | JavaScript |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
@@ -62,7 +62,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
-| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | 悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence. | 2026-10-13 |
+| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | 2026-10-13 |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-10-13 |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-13 |
