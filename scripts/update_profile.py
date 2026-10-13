@@ -6,6 +6,8 @@ import json
 import os
 from pathlib import Path
 import re
+from time import sleep
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,8 +19,18 @@ def fetch(path):
     token = os.environ.get('GITHUB_TOKEN')
     if token:
         headers['Authorization'] = 'Bearer ' + token
-    with urlopen(Request('https://api.github.com' + path, headers=headers), timeout=30) as response:
-        return json.load(response)
+    request = Request('https://api.github.com' + path, headers=headers)
+    for attempt in range(3):
+        try:
+            with urlopen(request, timeout=30) as response:
+                return json.load(response)
+        except HTTPError as error:
+            if error.code not in {429, 500, 502, 503, 504} or attempt == 2:
+                raise
+        except (URLError, TimeoutError):
+            if attempt == 2:
+                raise
+        sleep(2 ** attempt)
 
 
 def load_repos():
