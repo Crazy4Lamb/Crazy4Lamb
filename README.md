@@ -14,6 +14,16 @@ Curious by default. I turn ideas into code and learning into things you can try.
 
 📍 Shanghai, China · 🌱 Learning in public · 🛠️ Building as I learn
 
+## 最近发布 / Latest Project
+
+<!-- LATEST:START -->
+### 🚀 [crm-bi](https://github.com/Crazy4Lamb/crm-bi)
+
+悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence.
+
+`JavaScript · business-intelligence · crm · dashboard · echarts`
+<!-- LATEST:END -->
+
 ## 最近在学 / Currently Learning
 
 - **AI 与大模型 / AI & LLMs** — 理解模型能力、提示设计与实际应用。Exploring model capabilities, prompting and practical applications.

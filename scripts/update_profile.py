@@ -44,6 +44,24 @@ def public_projects(repos):
     )
 
 
+def latest_project(repos):
+    projects = sorted(public_projects(repos), key=lambda r: r['created_at'] or '', reverse=True)
+    if not projects:
+        return 'New experiments are on the way. / 新的实验正在路上。'
+    repo = projects[0]
+    description = repo.get('description') or 'An ongoing experiment / 持续探索中'
+    topics = [safe(topic) for topic in (repo.get('topics') or [])[:4]]
+    stack = ' · '.join(([safe(repo.get('language'))] if repo.get('language') else []) + topics)
+    lines = [
+        f"### 🚀 [{safe(repo['name'])}]({repo['html_url']})",
+        '',
+        safe(description),
+    ]
+    if stack:
+        lines += ['', f'`{stack}`']
+    return '\n'.join(lines)
+
+
 def projects_table(repos):
     rows = ['| Project / 项目 | Description / 简介 | Stack / 技术 |', '|---|---|---|']
     for repo in public_projects(repos):
@@ -86,6 +104,7 @@ def main():
     path = ROOT / 'README.md'
     text = path.read_text(encoding='utf-8-sig')
     blocks = {
+        'LATEST': latest_project(repos),
         'PROJECTS': projects_table(repos),
         'RECENT': recent_table(repos),
     }
