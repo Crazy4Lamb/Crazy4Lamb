@@ -1,41 +1,76 @@
-# Hi, I'm Crazy4Lamb 👋
+![Crazy4Lamb — Curious minds build interesting things](assets/header.svg)
 
-把想法做成可以使用的工具，也给日常生活留一点幽默。
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Crazy4Lamb&amp;label=PROFILE+VIEWS&amp;color=7040db&amp;style=flat-square" alt="Profile page views" />
+  <a href="https://github.com/Crazy4Lamb?tab=repositories"><img src="https://img.shields.io/badge/Exploring-AI%20%26%20Agents-7040db?style=flat-square" alt="Exploring AI and Agents" /></a>
+  <img src="https://img.shields.io/badge/Approach-Learn%20by%20building-23865a?style=flat-square" alt="Learn by building" />
+</p>
 
-Turning ideas into usable tools, with a little humor along the way.
+## 你好，我是 Crazy4Lamb / Hi, I'm Crazy4Lamb 👋
 
-我正在维护数学知识图谱教学、沟通练习、团队协作游戏和趣味角色技能项目。这里记录它们从想法到实现的过程。
+保持好奇，把想法写成代码，把学习变成可以体验的小作品。喜欢实用的工具，也喜欢有趣的实验；不限定题材，边学边做，持续迭代。
 
-My projects explore knowledge-graph learning, communication practice, team games and playful agent personas. This profile brings together the tools and experiments I maintain.
+Curious by default. I turn ideas into code and learning into things you can try. I enjoy useful tools and playful experiments, exploring new directions through small projects and continuous iteration.
 
-## 项目 / Projects
+📍 Shanghai, China · 🌱 Learning in public · 🛠️ Building as I learn
 
-| 项目 / Project | 中文介绍 | English |
+## 最近在学 / Currently Learning
+
+- **AI 与大模型 / AI & LLMs** — 理解模型能力、提示设计与实际应用。Exploring model capabilities, prompting and practical applications.
+- **Agent / 智能体** — 学习工具调用、上下文管理、任务流程与技能组织。Learning tool use, context management, workflows and reusable skills.
+- **从实验到作品 / Experiments → Projects** — 用小项目验证想法，记录问题与改进。Testing ideas through small projects and documenting what I learn.
+
+```text
+Curiosity → Learn → Build → Try → Improve → Repeat
+好奇心       学习     动手     体验    改进      继续探索
+```
+
+## 作品实验室 / Project Lab
+
+这里的作品是探索记录，新的想法随时会加入。
+
+These projects are snapshots of what I'm exploring, with room for whatever comes next.
+
+| 方向 / Direction | 可以体验 / Try it |
+|---|---|
+| 📚 学习与知识 / Learning & knowledge | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) — 知识连接与练习反馈 / Connected knowledge and practice |
+| 💬 沟通与表达 / Communication | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) — 练习回应和个人边界 / Responses and personal boundaries |
+| 🎮 互动与游戏 / Interactive play | [office-game](https://github.com/Crazy4Lamb/office-game) — 团队互动与策略 / Team interaction and strategy |
+| 🧩 趣味角色技能 / Playful personas | [diewei](https://github.com/Crazy4Lamb/diewei.skill) · [iknowder](https://github.com/Crazy4Lamb/iknowder.skill) · [uknowder](https://github.com/Crazy4Lamb/uknowder.skill) |
+
+[查看全部项目 / Explore all repositories →](https://github.com/Crazy4Lamb?tab=repositories)
+
+## 最近更新 / Recently Updated
+
+<!-- RECENT:START -->
+| Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
-| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习：图谱、题库、作业、批改和学情反馈 | Mathematics knowledge graphs, adaptive quizzes, assignments, grading and learning analytics |
-| [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 中英文沟通与边界表达练习，支持本地模式和可选 AI 对手 | Bilingual communication and boundary practice with local rules and optional AI opponents |
-| [office-game](https://github.com/Crazy4Lamb/office-game) | 办公室策略与团队游戏，支持独立房间、单人演练和多人玩法 | Office strategy game with independent rooms, solo practice and multiplayer modes |
+| [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
+| [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-10-13 |
+| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-13 |
+| [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | 2026-10-12 |
+| [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | 2026-10-12 |
+| [diewei.skill](https://github.com/Crazy4Lamb/diewei.skill) | 爹味说教生成器：长辈口吻、打压式关怀与人生道理讽刺 / Patronizing lecture generator with configurable styles, local Python CLI and agent skill. | 2026-10-12 |
+<!-- RECENT:END -->
 
-## 趣味技能 / Playful Skills
+最近更新列表根据公开仓库自动生成，新的公开项目也会加入。 / Automatically refreshed from public repositories, including new projects.
 
-三种不同的角色口吻，既有可运行的 Python 模板引擎，也有可加载的智能体技能说明。
+## GitHub 小仪表盘 / GitHub Snapshot
 
-Three distinct personas, each with a runnable Python template engine and agent skill instructions.
+![Public repositories, stars, forks and followers](assets/stats.svg)
 
-| Skill | 中文定位 | English |
-|---|---|---|
-| [diewei.skill](https://github.com/Crazy4Lamb/diewei.skill) | 爹味说教：把“我都是为你好”做成讽刺文案 | Satirical, patronizing lectures in configurable styles |
-| [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个 der：佛系退场、不装懂、不乱给建议 | Humorous opt-out replies: relaxed, slacker or deadpan |
-| [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个 der：反说教、吐槽和个人边界表达 | Rebellious, sarcastic or boundary-setting responses to patronizing talk |
+仓库、Star、Fork 统计仅包含本人拥有的公开非 Fork 仓库；主语言按仓库数量统计，不代表技能熟练度。统计卡和最近更新每天刷新。
 
-## 项目中使用的技术 / Technologies in These Projects
+Repository, star and fork totals cover owned public repositories excluding forks. Languages reflect repository primary-language counts, not proficiency. The snapshot and recent list refresh daily.
 
-- **Web:** JavaScript · React · Vite · Node.js
-- **Teaching platform:** Java · Spring Boot · MySQL · Neo4j · Qdrant · ONNX Runtime
-- **Skills:** Python · CLI · local templates · agent instructions
+访客徽章由 [Komarev](https://github.com/antonkomarev/github-profile-views-counter) 提供，记录启用后的页面访问计数，不是独立访客人数，也不回溯历史访问。
 
-## 交流与贡献 / Feedback & Contributions
+The visitor badge counts page hits since activation, not unique people or historical visits. It is provided by Komarev and may be affected by caching.
 
-欢迎在对应仓库提 Issue，反馈问题、分享使用体验或提出改进建议；也欢迎通过 Pull Request 参与。
+## 交流 / Say Hello
 
-Issues, feedback and pull requests are welcome in the relevant repository. Each project includes Chinese and English documentation with setup instructions and examples.
+欢迎交流 AI、Agent 和有趣的项目想法。发现问题、想到改进，欢迎在对应仓库提 Issue 或 Pull Request。
+
+Happy to exchange ideas about AI, agents and interesting projects. Feedback, issues and pull requests are welcome in the relevant repository.
+
+<sub>Still learning. Still building. Still curious. / 持续学习，持续动手，持续好奇。</sub>
