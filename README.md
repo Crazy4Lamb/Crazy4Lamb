@@ -27,16 +27,23 @@ Curiosity → Learn → Build → Try → Improve → Repeat
 
 ## 作品实验室 / Project Lab
 
-这里的作品是探索记录，新的想法随时会加入。
+这里的作品是探索记录。列表根据本人拥有的公开仓库自动生成，新的项目会随主页任务加入。
 
-These projects are snapshots of what I'm exploring, with room for whatever comes next.
+These projects are snapshots of what I'm exploring. The list is generated from my owned public repositories, so new projects join it automatically.
 
-| 方向 / Direction | 可以体验 / Try it |
-|---|---|
-| 📚 学习与知识 / Learning & knowledge | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) — 知识连接与练习反馈 / Connected knowledge and practice |
-| 💬 沟通与表达 / Communication | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) — 练习回应和个人边界 / Responses and personal boundaries |
-| 🎮 互动与游戏 / Interactive play | [office-game](https://github.com/Crazy4Lamb/office-game) — 团队互动与策略 / Team interaction and strategy |
-| 🧩 趣味角色技能 / Playful personas | [diewei](https://github.com/Crazy4Lamb/diewei.skill) · [iknowder](https://github.com/Crazy4Lamb/iknowder.skill) · [uknowder](https://github.com/Crazy4Lamb/uknowder.skill) |
+<!-- PROJECTS:START -->
+| Project / 项目 | Description / 简介 | Stack / 技术 |
+|---|---|---|
+| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | 悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
+| [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | JavaScript |
+| [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | JavaScript |
+| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
+| [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | Python · ai · skill · skills |
+| [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | Python · ai · iknowder · skill |
+| [diewei.skill](https://github.com/Crazy4Lamb/diewei.skill) | 爹味说教生成器：长辈口吻、打压式关怀与人生道理讽刺 / Patronizing lecture generator with configurable styles, local Python CLI and agent skill. | Python · ai · diewei · shittalk |
+| [wayfinder](https://github.com/Crazy4Lamb/wayfinder) | wayfinder | TypeScript |
+| [ai_website](https://github.com/Crazy4Lamb/ai_website) | An ongoing experiment / 持续探索中 | TypeScript |
+<!-- PROJECTS:END -->
 
 [查看全部项目 / Explore all repositories →](https://github.com/Crazy4Lamb?tab=repositories)
 
@@ -45,12 +52,12 @@ These projects are snapshots of what I'm exploring, with room for whatever comes
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
+| [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | 悦客 CRM：PostgreSQL 驱动的客户经营、销售流程与 BI 分析平台 / Yueke CRM: PostgreSQL-powered customer operations, sales workflows and business intelligence. | 2026-10-13 |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-10-13 |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-13 |
 | [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | 2026-10-12 |
 | [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | 2026-10-12 |
-| [diewei.skill](https://github.com/Crazy4Lamb/diewei.skill) | 爹味说教生成器：长辈口吻、打压式关怀与人生道理讽刺 / Patronizing lecture generator with configurable styles, local Python CLI and agent skill. | 2026-10-12 |
 <!-- RECENT:END -->
 
 最近更新列表根据公开仓库自动生成，新的公开项目也会加入。 / Automatically refreshed from public repositories, including new projects.
