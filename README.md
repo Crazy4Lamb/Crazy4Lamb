@@ -44,10 +44,10 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- PROJECTS:START -->
 | Project / 项目 | Description / 简介 | Stack / 技术 |
 |---|---|---|
+| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | JavaScript |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | JavaScript |
-| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
 | [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | Python · ai · skill · skills |
 | [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | Python · ai · iknowder · skill |
 | [diewei.skill](https://github.com/Crazy4Lamb/diewei.skill) | 爹味说教生成器：长辈口吻、打压式关怀与人生道理讽刺 / Patronizing lecture generator with configurable styles, local Python CLI and agent skill. | Python · ai · diewei · shittalk |
@@ -62,10 +62,10 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
+| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-14 |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | 2026-10-13 |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-10-13 |
-| [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-13 |
 | [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | 2026-10-12 |
 | [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | 2026-10-12 |
 <!-- RECENT:END -->
