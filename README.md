@@ -12,16 +12,22 @@
 
 Curious by default. I turn ideas into code and learning into things you can try. I enjoy useful tools and playful experiments, exploring new directions through small projects and continuous iteration.
 
+正在制作 [墨读 DeepRead](https://github.com/Crazy4Lamb/deepread)：把电子书放进熟悉的 AI 聊天界面，探索本地优先的阅读体验与可选的真实模型对话。
+
+Currently building [DeepRead](https://github.com/Crazy4Lamb/deepread), a local-first ebook reader inside familiar AI chat interfaces, with optional live model conversations.
+
 📍 Shanghai, China · 🌱 Learning in public · 🛠️ Building as I learn
 
 ## 最近发布 / Latest Project
 
 <!-- LATEST:START -->
-### 🚀 [crm-bi](https://github.com/Crazy4Lamb/crm-bi)
+### 📖 [deepread · 墨读](https://github.com/Crazy4Lamb/deepread)
 
-CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence.
+墨读：聊天界面中的本地电子书阅读器，提供 10 种浅色外观、隐藏工具抽屉、可控分页，以及可选的真实 AI 聊天。
 
-`JavaScript · business-intelligence · crm · dashboard · echarts`
+DeepRead: a local ebook reader inside AI chat interfaces, with ten light appearances, a hidden tool drawer, configurable pagination and optional live model chat.
+
+[中文说明](https://github.com/Crazy4Lamb/deepread#readme) · [English](https://github.com/Crazy4Lamb/deepread/blob/main/docs/README.en.md)
 <!-- LATEST:END -->
 
 ## 最近在学 / Currently Learning
@@ -44,6 +50,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- PROJECTS:START -->
 | Project / 项目 | Description / 简介 | Stack / 技术 |
 |---|---|---|
+| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：AI 聊天外观中的本地电子书阅读器，可选接入真实模型 / Local ebook reader in AI chat interfaces with optional live model chat. | JavaScript · HTML · CSS |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | JavaScript |
@@ -62,6 +69,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
+| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：AI 聊天外观中的本地电子书阅读器，可选接入真实模型 / Local ebook reader in AI chat interfaces with optional live model chat. | 2026-10-22 |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | 2026-10-15 |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-15 |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
