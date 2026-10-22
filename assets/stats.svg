@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210" role="img" aria-label="GitHub public account statistics">
 <rect width="960" height="210" rx="20" fill="#f6f3ff"/>
 <text x="30" y="35" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#7040db">PUBLIC WORK / AT A GLANCE</text>
-<text x="30" y="87" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="700" fill="#29213f">10</text>
+<text x="30" y="87" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="700" fill="#29213f">11</text>
 <text x="30" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1" fill="#716780">PUBLIC REPOS</text>
 <text x="265" y="87" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="700" fill="#29213f">14</text>
 <text x="265" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1" fill="#716780">STARS</text>
@@ -9,6 +9,6 @@
 <text x="500" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1" fill="#716780">FORKS</text>
 <text x="735" y="87" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="700" fill="#29213f">0</text>
 <text x="735" y="113" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1" fill="#716780">FOLLOWERS</text>
-<text x="30" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#49316e">Primary languages by repo: Python (4) · JavaScript (3) · TypeScript (2) · Java (1)</text>
+<text x="30" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#49316e">Primary languages by repo: Python (4) · JavaScript (3) · TypeScript (2) · HTML (1) · Java (1)</text>
 <text x="30" y="187" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#716780">Updated 2026-10-22 UTC · Owned public repos, excluding forks</text>
 </svg>

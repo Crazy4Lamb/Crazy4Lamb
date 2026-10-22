@@ -21,13 +21,11 @@ Currently building [DeepRead](https://github.com/Crazy4Lamb/deepread), a local-f
 ## 最近发布 / Latest Project
 
 <!-- LATEST:START -->
-### 📖 [deepread · 墨读](https://github.com/Crazy4Lamb/deepread)
+### 🚀 [deepread](https://github.com/Crazy4Lamb/deepread)
 
-墨读：聊天界面中的本地电子书阅读器，提供 10 种浅色外观、隐藏工具抽屉、可控分页，以及可选的真实 AI 聊天。
+墨读：聊天界面中的本地电子书阅读器，可选接入 AI 模型 / Local ebook reader in AI chat interfaces with optional live model chat.
 
-DeepRead: a local ebook reader inside AI chat interfaces, with ten light appearances, a hidden tool drawer, configurable pagination and optional live model chat.
-
-[中文说明](https://github.com/Crazy4Lamb/deepread#readme) · [English](https://github.com/Crazy4Lamb/deepread/blob/main/docs/README.en.md)
+`HTML`
 <!-- LATEST:END -->
 
 ## 最近在学 / Currently Learning
@@ -50,7 +48,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- PROJECTS:START -->
 | Project / 项目 | Description / 简介 | Stack / 技术 |
 |---|---|---|
-| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：AI 聊天外观中的本地电子书阅读器，可选接入真实模型 / Local ebook reader in AI chat interfaces with optional live model chat. | JavaScript · HTML · CSS |
+| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：聊天界面中的本地电子书阅读器，可选接入 AI 模型 / Local ebook reader in AI chat interfaces with optional live model chat. | HTML |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | JavaScript · business-intelligence · crm · dashboard |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | Java |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | JavaScript |
@@ -69,13 +67,12 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
-| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：AI 聊天外观中的本地电子书阅读器，可选接入真实模型 / Local ebook reader in AI chat interfaces with optional live model chat. | 2026-10-22 |
+| [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：聊天界面中的本地电子书阅读器，可选接入 AI 模型 / Local ebook reader in AI chat interfaces with optional live model chat. | 2026-10-22 |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | 2026-10-15 |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-15 |
 | [office-game](https://github.com/Crazy4Lamb/office-game) | 工作组游戏：团队沟通与办公室策略对战 / Office Game: multiplayer team communication and office strategy game with solo practice and optional AI interaction. | 2026-10-13 |
 | [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-10-13 |
 | [uknowder.skill](https://github.com/Crazy4Lamb/uknowder.skill) | 你知道个der：反说教、反PUA与个人边界表达 / Push back on patronizing talk with rebellious, sarcastic and boundary modes, Python CLI and agent skill. | 2026-10-12 |
-| [iknowder.skill](https://github.com/Crazy4Lamb/iknowder.skill) | 我知道个der：佛系退场、摆烂敷衍与不装懂回应 / Humorous opt-out responses with relaxed, slacker and deadpan modes, Python CLI and agent skill. | 2026-10-12 |
 <!-- RECENT:END -->
 
 最近更新列表根据公开仓库自动生成，新的公开项目也会加入。 / Automatically refreshed from public repositories, including new projects.
