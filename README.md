@@ -67,7 +67,7 @@ These projects are snapshots of what I'm exploring. The list is generated from m
 <!-- RECENT:START -->
 | Project | Description / 简介 | Updated (UTC) |
 |---|---|---|
-| [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-11-02 |
+| [quarrel-trainer](https://github.com/Crazy4Lamb/quarrel-trainer) | 吵架练习器：沟通与个人边界表达练习 / Quarrel Trainer: practice assertive communication, conflict responses and personal boundaries with optional AI coaching. | 2026-11-03 |
 | [deepread](https://github.com/Crazy4Lamb/deepread) | 墨读：聊天界面中的本地电子书阅读器，可选接入 AI 模型 / Local ebook reader in AI chat interfaces with optional live model chat. | 2026-10-22 |
 | [crm-bi](https://github.com/Crazy4Lamb/crm-bi) | CRM BI: a Spring Boot and PostgreSQL 18 platform for customer operations, sales workflows, and business intelligence. | 2026-10-15 |
 | [kg-quiz](https://github.com/Crazy4Lamb/kg-quiz) | 数学知识图谱教学与自适应练习平台 / Mathematics knowledge graph teaching platform with adaptive quizzes, question bank and learning analytics. | 2026-10-15 |
